@@ -1,0 +1,14 @@
+{
+    "sensitive_directory/important_file.txt": {
+        "hash": "ce20f737bb0ecaf0cd885c796320393108ba8996089ffd6a0516651a1aa53106",
+        "size": 21,
+        "modified": "Fri Sep 12 15:03:30 2025",
+        "accessed": "Fri Sep 12 15:05:13 2025"
+    },
+    "sensitive_directory\\important_file.txt": {
+        "hash": "ce20f737bb0ecaf0cd885c796320393108ba8996089ffd6a0516651a1aa53106",
+        "size": 21,
+        "modified": "Fri Sep 12 15:03:30 2025",
+        "accessed": "Fri Sep 12 15:05:13 2025"
+    }
+}

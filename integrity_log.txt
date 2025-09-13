@@ -1,0 +1,4 @@
+2025-09-12 15:05:36 - Alert: File modified - sensitive_directory/important_file.txt (old hash: ce20f737bb0ecaf0cd885c796320393108ba8996089ffd6a0516651a1aa53106, new hash: c9aebbf4f2eaa5125d0e39120ee95410cbba3db0efa19d7cdf17c0477d85a284)
+2025-09-12 15:05:36 - Alert: File modified - sensitive_directory\important_file.txt (old hash: ce20f737bb0ecaf0cd885c796320393108ba8996089ffd6a0516651a1aa53106, new hash: c9aebbf4f2eaa5125d0e39120ee95410cbba3db0efa19d7cdf17c0477d85a284)
+2025-09-12 20:37:55 - SPOOFING ALERT: Hash ce20f737bb0ecaf0cd885c796320393108ba8996089ffd6a0516651a1aa53106 previously seen for sensitive_directory/important_file.txt
+2025-09-12 20:37:55 - SPOOFING ALERT: Hash ce20f737bb0ecaf0cd885c796320393108ba8996089ffd6a0516651a1aa53106 previously seen for sensitive_directory\important_file.txt
